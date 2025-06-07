@@ -4,12 +4,12 @@ body{
     margin: 0;
 }
 @media only screen and (min-width: 600px) {
-    .div-a-centralizar {
+    .container {
         width: 50%;
         left: 25%;
     }
   }
-.div-a-centralizar {
+.container {
     
     position: absolute;
     padding: 10px 15px;
@@ -23,6 +23,20 @@ h1{
 p {
     font-size: 18px;
     text-align: justify;
+}
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button:visited {
+    background-color: #5c5c5c; /* Green */
 }
 ul {
     list-style-type: none;
