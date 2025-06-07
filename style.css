@@ -25,7 +25,7 @@ p {
     text-align: justify;
 }
 .button {
-    background-color: #04AA6D; /* Green */
+    background-color: #04AA6D;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -36,7 +36,7 @@ p {
     cursor: pointer;
 }
 .button:visited {
-    background-color: #5c5c5c; /* Green */
+    background-color: #5c5c5c;
 }
 ul {
     list-style-type: none;
